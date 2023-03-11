@@ -6,6 +6,22 @@
   *go to Github
   *Repositories>Create New Repository> first_git_project
 
- 3. Create new commit for the first time
+ 3. Create a FIRST commit for the first time
    *git init
-   *
+   *git add .
+   *git commit -m "first commit"
+   *git branch -M main
+   *git remote add origin https://github.com/Dilankale/first_git_project.git
+   *git push -u origin main
+
+
+   ****Then your code should be pushed to github. Refresh your page to see the code*****
+
+Note: git status ->This is out friend. This can e used anytime to see the progress
+
+4. Create a new SECOND Commit
+    *Create a new class under first_git_package: MySecondClass
+    *Create a new commit and push the code to github
+       *git add .
+       *git commit -m "added my second java class"
+      * git push
