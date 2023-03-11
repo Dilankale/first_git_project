@@ -25,3 +25,9 @@ Note: git status ->This is out friend. This can e used anytime to see the progre
        *git add .
        *git commit -m "added my second java class"
       * git push
+
+5.ADD SPECIFIC FILES
+*Create 2 JAVA classes:MyThirdClass, MyFourthClass
+*git add "src/main/java/first_git_package/MyFourthClass.java"
+*git commit -m "adding fourth class"
+*git push
